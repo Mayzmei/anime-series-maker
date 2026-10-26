@@ -11,21 +11,11 @@
 ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-orange)
 ![Renoise MCP](https://img.shields.io/badge/video-Renoise%20MCP-ff7a1a)
 
-<img src="docs/images/cover.jpg" width="820" alt="同一部 AI 番剧的四集画面">
 
 </div>
 
-> 我在 Instagram 连载一部 AI 同人番剧：40 多集，固定角色，最高单集 **60.5 万 / 49.5 万 / 30.1 万播放**。
+> 两周里我给 Instagram 做了 40 集动漫，固定一套角色，最高单集 **65.1 万 / 54.6 万 / 34.6 万播放**。
 > 这个仓库就是我的完整工作流，连同一路上烧积分踩过的所有坑，打包成一个 Skill。
-
----
-
-## 效果
-
-<!-- TODO: 换成 docs/gifs/ 里的 GIF + 视频链接 -->
-| | | |
-|:---:|:---:|:---:|
-| **吓人失败只撑 3 秒** · 14 秒 · 60.5 万播放 | **变成猫娘** · 63 秒 · 49.5 万播放 | **口头禅三连** · 72 秒 · 30.1 万播放 |
 
 ---
 

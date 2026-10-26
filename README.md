@@ -11,22 +11,11 @@ Hook, shot-by-shot script, voiced anime clips, QA, edit, Instagram-safe cover an
 ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-orange)
 ![Renoise MCP](https://img.shields.io/badge/video-Renoise%20MCP-ff7a1a)
 
-<!-- TODO: docs/images/cover.jpg — a 2×2 grid of 4 episode frames -->
-<img src="docs/images/cover.jpg" width="820" alt="Four episodes of the same AI anime series">
 
 </div>
 
-> I've been posting an AI fan-anime series on Instagram: 40+ episodes, one fixed cast, top episodes at **605k / 495k / 301k views**.
+> In 2 weeks I made 40 anime episodes for my Instagram with one fixed cast. Top episodes: **651K / 546K / 346K views**.
 > This repo is that whole workflow packed into one skill, including every mistake that cost me credits along the way.
-
----
-
-## Demos
-
-<!-- TODO: replace with GIFs in docs/gifs/ + video links (GitHub Release assets) -->
-| | | |
-|:---:|:---:|:---:|
-| **Fake-out fails in 3 s** · 14 s · 605k views | **Cat-girl transformation** · 63 s · 495k views | **Catchphrase ×3** · 72 s · 301k views |
 
 ---
 

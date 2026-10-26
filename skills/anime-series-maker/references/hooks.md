@@ -1,15 +1,15 @@
 # Hooks, covers and captions
 
-## Premise formulas (ranked by real Instagram views of a 26-episode fan-anime series)
+## Premise formulas (ranked by real Instagram views of a 40-episode fan-anime series, late Oct 2026)
 
 | Rank | Formula | Example premise | Views |
 |---|---|---|---|
-| 1 | **Fake-out that fails in 3 seconds** | She dresses up as a scary ghost to frighten him — her scary act lasts three seconds | 605k |
-| 2 | **Transformation** (cat girl, kitten, tiny, swapped) | A spell goes wrong and she grows cat ears and a fluffy tail | 495k / 187k |
-| 3 | **Catchphrase ×3** — the same line, escalating, three times | Every time something goes wrong she threatens "I'll tell my father" — the third time it backfires | 301k |
-| 4 | **Wants X, can't admit it** | She wants a princess carry and keeps "accidentally" tripping near him | 237k |
-| 5 | **Rescue / protect** | Someone bullies her; he steps in with one calm line | 196k |
-| 6 | **Tiny rule / ritual** | She refuses to say the password to the dorm door | 129k |
+| 1 | **Fake-out that fails in 3 seconds** | She dresses up as a scary ghost to frighten him — her scary act lasts three seconds | 651K |
+| 2 | **Transformation** (cat girl, kitten, tiny, swapped) | A spell goes wrong and she grows cat ears and a fluffy tail | 546K / 187K |
+| 3 | **Catchphrase ×3** — the same line, escalating, three times | Every time something goes wrong she threatens "I'll tell my father" — the third time it backfires | 346K |
+| 4 | **Wants X, can't admit it** | She wants a princess carry and keeps "accidentally" tripping near him | 237K |
+| 5 | **Rescue / protect** | Someone bullies her; he steps in with one calm line | 196K |
+| 6 | **Tiny rule / ritual** | She refuses to say the password to the dorm door | 129K |
 
 Lower performers: long plot-heavy episodes (romance arcs, balls, multi-location stories) — beautiful, fewer views.
 Short (14–30 s) single-joke episodes beat 60–100 s stories almost every time.

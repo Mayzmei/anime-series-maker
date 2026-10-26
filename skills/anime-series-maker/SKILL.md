@@ -8,7 +8,7 @@ description: Turn 2–3 character sheets + one line of story into a finished, po
 One series = one fixed cast, one fixed art style, one fixed voice setup, stored in `series.json`.
 Every episode reuses it, so episode 30 looks like episode 1.
 
-The pipeline was built while making a fan-anime series on Instagram (top episodes: 605k / 495k / 301k views).
+The pipeline was built while making a fan-anime series on Instagram (top episodes: 651K / 546K / 346K views).
 Every rule in `references/pitfalls.md` is a mistake that cost real credits once. Read it before generating anything.
 
 ```
