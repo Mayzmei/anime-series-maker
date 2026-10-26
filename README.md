@@ -63,7 +63,7 @@ Hook, shot-by-shot script, voiced anime clips, QA, edit, Instagram-safe cover an
 ### 1 · Get the skill
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB>/anime-series-maker.git
+git clone https://github.com/Mayzmei/anime-series-maker.git
 ```
 
 **Claude Code**

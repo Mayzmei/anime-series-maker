@@ -44,7 +44,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB>/anime-series-maker.git
+git clone https://github.com/Mayzmei/anime-series-maker.git
 mkdir -p ~/.claude/skills && cp -R anime-series-maker/skills/anime-series-maker ~/.claude/skills/   # Claude Code
 mkdir -p ~/.codex/skills  && cp -R anime-series-maker/skills/anime-series-maker ~/.codex/skills/    # Codex
 ```
