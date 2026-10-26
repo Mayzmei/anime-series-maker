@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+*.mp4
+my-series/

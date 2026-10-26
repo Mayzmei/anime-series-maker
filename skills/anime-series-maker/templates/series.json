@@ -1,0 +1,44 @@
+{
+  "series": "Ojou-sama Can't Admit It",
+  "language": "Japanese",
+  "ratio": "16:9",
+  "resolution": "720p",
+  "model": "",
+  "genre": "2D anime romantic comedy",
+  "tone": "fast, punchy anime comedy timing with expressive faces and snappy reactions",
+  "style": "2D Japanese anime, soft cel shading, clean thin lineart, soft watercolor-like painted anime backgrounds, gothic magic-academy castle, warm candlelight and sunlight shafts, bloom glow, romantic comedy anime, blush stickers on cheeks, sparkle accents, high-quality TV anime key animation, consistent character models, full vibrant color. EVERYTHING including all backgrounds must be hand-drawn 2D anime — no photorealism, no live action, no 3D render.",
+  "audio": "Light whimsical orchestral pizzicato comedy music, anime comedy SFX.",
+  "characters": [
+    {
+      "id": "girl",
+      "label": "BLONDE GIRL",
+      "material": "material:000000",
+      "sheet": "sheets/girl.png",
+      "look": "very long straight platinum-blonde hair to her thighs with a center part, pale silver-grey eyes with long lashes, delicate elegant face, fair skin, small earrings; white shirt, violet-and-silver striped tie, charcoal-grey V-neck sweater vest, charcoal pleated skirt, black hooded academy robe with violet lining, charcoal knee-high socks, glossy black heeled loafers with a gold bit",
+      "personality": "proud rich-girl tsundere: haughty smirk, blushes bright red instantly, voice cracks when flustered",
+      "voice": "bright high-pitched ojou-sama voice, haughty, cracks when embarrassed",
+      "catchphrase": ""
+    },
+    {
+      "id": "boy",
+      "label": "BOY WITH GLASSES",
+      "material": "material:000000",
+      "sheet": "sheets/boy.png",
+      "look": "messy jet-black hair, thin round wire-rimmed glasses, green eyes; white shirt, navy-and-gold striped tie, grey V-neck sweater, black academy robe with navy lining, black trousers, black shoes, slim wooden wand",
+      "personality": "calm, dry, quietly teasing: half-smile, adjusts his glasses, unbothered",
+      "voice": "clean calm youthful tenor, teasing and soft",
+      "catchphrase": ""
+    }
+  ],
+  "settings": [
+    "sunlit gothic stone corridor with tall arched windows, stone pillars, warm golden light shafts, floating dust sparkles",
+    "candle-lit common room with a crackling fireplace, velvet sofas and tall bookshelves",
+    "academy library with towering shelves, green reading lamps and floating books"
+  ],
+  "running_gags": [
+    "her elaborate plans to get his attention fail within three seconds",
+    "he always sees through her and only says one calm teasing line"
+  ],
+  "negative": "NO SUBTITLES. NO ON-SCREEN TEXT OR CAPTIONS. NO SPEECH BUBBLES.",
+  "closing": "All dialogue must exist only as natural in-scene {language} audio. The final video must look like a clean 2D anime episode with purely visual storytelling and no visible written text anywhere in the frame. Wholesome, cute romantic comedy; camera framing always tasteful."
+}

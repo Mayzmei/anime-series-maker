@@ -1,0 +1,62 @@
+{
+  "id": "ep01",
+  "title": "The Fake Swoon",
+  "premise": "She fakes a faint so he'll catch her — he catches her like a wooden plank.",
+  "hook": "she planned the perfect fake faint for you 😳",
+  "clips": [
+    {
+      "duration": 15,
+      "cast": ["girl", "boy"],
+      "setting": 0,
+      "focus": "tsundere rich girl, fake fall to be caught, awkward stiff catch, embarrassment, teasing, comedy of failure",
+      "arcs": {
+        "girl": "plotting and nervous at first, then cringing at herself, then theatrical fake swoon, then disbelief, then furious tomato-red blush",
+        "boy": "calm and oblivious-looking, catches her like a stiff wooden plank with arms locked straight, then a knowing little smirk while pushing up his glasses"
+      },
+      "shots": [
+        {
+          "t": [0, 3],
+          "title": "THE STAKEOUT",
+          "action": "Medium close-up: the blonde girl peeks out from behind a stone pillar, smoothing her long hair, taking a deep breath, eyes darting.",
+          "dialogue": "Girl (whispering to herself): 「…いい？彼が来たら、か弱く倒れて…受け止めてもらうだけ。」",
+          "sfx": "soft footsteps echoing far away, fabric rustle",
+          "camera": "slow push-in on her face"
+        },
+        {
+          "t": [3, 5],
+          "title": "SELF-CRINGE",
+          "action": "Close-up: she covers her burning red face with both hands and shakes her head.",
+          "dialogue": "Girl: 「…って、何やってるのよ私！」",
+          "sfx": "comedic boing",
+          "camera": "quick snap zoom"
+        },
+        {
+          "t": [5, 8],
+          "title": "TARGET APPROACHES",
+          "action": "Wide shot: the boy with glasses walks down the sunlit corridor reading a book, unaware. The girl steps out and dramatically swoons toward him, back of her hand to her forehead.",
+          "dialogue": "Girl: 「きゃあ〜っ！」",
+          "sfx": "whoosh",
+          "camera": "tracking side angle"
+        },
+        {
+          "t": [8, 11],
+          "title": "THE PLANK CATCH",
+          "action": "Medium two-shot: he catches her by both shoulders with arms locked perfectly straight, holding her at a full arm's length like a stiff board. Frozen awkward silence.",
+          "dialogue": "Girl (deadpan): 「……え、それだけ？」 Boy (blank): 「何が？」",
+          "sfx": "awkward silence sting, a single crow caw",
+          "camera": "static, centered, comedic symmetry"
+        },
+        {
+          "t": [11, 15],
+          "title": "HIS SMIRK",
+          "action": "Close-up: her face turns tomato red and she shoves his hands off; cut to him pushing up his round glasses with one finger, a tiny knowing smirk.",
+          "dialogue": "Girl (voice cracking): 「な、なんでもないわよ！」 Boy (calm, teasing): 「はいはい。足元、気をつけてね。」",
+          "sfx": "blush pop, glasses glint ting, music button",
+          "camera": "quick push-in, then slow push-in on him"
+        }
+      ],
+      "final_visual": "he goes back to his book with a small smile while her blonde hair whips out of frame as she storms off.",
+      "ending_mood": "playful embarrassment — her plan failed, but she is not giving up."
+    }
+  ]
+}
